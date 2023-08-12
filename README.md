@@ -2,7 +2,7 @@
 
 [![Instituto](/assets/BannerElect.png)](/assets/BannerElect.png)
   
-# MATERIA: Programacion para sistema embebidos
+# MATERIA: Programacion para sistemas embebidos
 
 **DOCENTE: **Lisandro Noel Lanfranco**
 
